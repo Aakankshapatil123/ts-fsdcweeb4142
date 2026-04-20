@@ -5,7 +5,7 @@ class App extends Component {
   render(){
     return(
       <>
-      hello word!!
+      <h1>hello word!!</h1>
       </>
     )
   }
