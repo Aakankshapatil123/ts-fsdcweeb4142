@@ -1,10 +1,14 @@
+import { Component} from "react";
 
-function App(){
-   return(
-    <>
-      <h1>Hello</h1>
-    </>
-   )
+
+class App extends Component {
+  render(){
+    return(
+      <>
+      hello word!!
+      </>
+    )
+  }
 }
 
 export default App;
